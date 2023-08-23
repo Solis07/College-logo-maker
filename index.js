@@ -50,3 +50,14 @@ function promptUser() {
 
 // Calls the promptUser function
 promptUser();
+
+
+// This will allow the user to take their input from the array and apply the properties of what shape they want.
+let shapeChoice;
+if (answer.shape === "Square") {
+  shapeChoice = new Square();
+} else if (answer.shape === "Triangle") {
+  shapeChoice = new Triangle();
+} else (answer.shape === "Circle"){
+  shapeChoice = new Circle();
+}
