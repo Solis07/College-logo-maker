@@ -21,21 +21,21 @@ function promptUser() {
         // Shape color
         type: "input",
         name: "shapeColor",
-        message: "Choose a color (Keyword or Hexadecimal):",
+        message: "Choose a color (Keyword OR Hexadecimal):",
       },
 
       {
         // Text
         type: "input",
         name: "text",
-        message: "Display a text (3 characters or less):",
+        message: "Display a text (3 characters OR less):",
       },
 
       {
         // Text color
         type: "input",
         name: "textColor",
-        message: "Choose a text color (Keyword or Hexadecimal):",
+        message: "Choose a text color (Keyword OR Hexadecimal):",
       },
     ])
     .then((answers) => {
@@ -47,3 +47,6 @@ function promptUser() {
       }
     });
 }
+
+// Calls the promptUser function
+promptUser();
