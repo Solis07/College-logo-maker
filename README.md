@@ -6,7 +6,7 @@ The following challenge required developers to generate a simple logo. The follo
 
 ## Website Link
 
-[Logo Maker](https://solis07.github.io/README-GENERATOR/)
+[Logo Maker]()
 
 ## Video Link
 
@@ -14,4 +14,6 @@ The following challenge required developers to generate a simple logo. The follo
 
 ## Screenshot
 
-![Logo Maker](./assets/img/Readme%20screenshot.jpg)
+![Logo Maker](./assets/img/)
+
+
