@@ -8,6 +8,10 @@ The following challenge required developers to generate a simple logo. The follo
 
 [Logo Maker](https://solis07.github.io/README-GENERATOR/)
 
+## Video Link
+
+[Video]
+
 ## Screenshot
 
 ![Logo Maker](./assets/img/Readme%20screenshot.jpg)
