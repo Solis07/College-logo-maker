@@ -77,7 +77,7 @@ function writeToFile(fileName, choice) {
 
 // Set a default text size of 50 and displays the text and text color on the logo
   svgLogo += svgShape.render();
-  svgLogo += `<text x="150" y="125" font-size="50" text-anchor="middle" fill="${choice.textColor}">${choice.text}</text>`;
+  svgLogo += `<text x="125" y="125" font-size="50" text-anchor="center" fill="${choice.textColor}">${choice.text}</text>`;
  
   svgLogo += '</svg>'
 
