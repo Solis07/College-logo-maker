@@ -1,1 +1,1 @@
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">Square<rect x="70" y="20" height="200" width="200" fill="Red"/><text x="125" y="125" font-size="50" text-anchor="center" fill="white">PIE</text></svg>
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">Triangle<polygon points="150, 18 244, 182 56, 182" fill="purple"/><text x="125" y="125" font-size="50" text-anchor="center" fill="White">IKE</text></svg>
