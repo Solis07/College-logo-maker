@@ -14,7 +14,7 @@ Through the integrated terminal the user will be prompted with text with the hel
 
 The following link will take you to the video walkthrough of my logo generator.
 
-[Video]
+[Video Walkthrough](https://youtu.be/ZYOzhNKF2QE)
 
 ## Screenshot
 
